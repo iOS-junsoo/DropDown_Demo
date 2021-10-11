@@ -27,6 +27,7 @@
 		9968FB8F27145CA300B28535 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9968FB9227145CA300B28535 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9968FB9427145CA300B28535 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9968FB9A27146ACC00B28535 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		F4141D19AD5DEFEDF5DE5883 /* Pods-DropDown_Demo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DropDown_Demo.release.xcconfig"; path = "Target Support Files/Pods-DropDown_Demo/Pods-DropDown_Demo.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -78,6 +79,7 @@
 				9968FB8F27145CA300B28535 /* Assets.xcassets */,
 				9968FB9127145CA300B28535 /* LaunchScreen.storyboard */,
 				9968FB9427145CA300B28535 /* Info.plist */,
+				9968FB9A27146ACC00B28535 /* README.md */,
 			);
 			path = DropDown_Demo;
 			sourceTree = "<group>";
@@ -88,7 +90,6 @@
 				6E3D18F68CA903AD07CCF7FF /* Pods-DropDown_Demo.debug.xcconfig */,
 				F4141D19AD5DEFEDF5DE5883 /* Pods-DropDown_Demo.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
