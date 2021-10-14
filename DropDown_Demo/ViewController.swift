@@ -45,6 +45,11 @@ class ViewController: UIViewController {
             print("인덱스 : \(index)")
             self.dropDown.clearSelection()
         }
+        //드롭다운 cell 가운데 정렬
+        dropDown.customCellConfiguration = { [unowned self] (index: Int, item: String, cell: DropDownCell) in
+        // Setup your custom UI components
+        cell.optionLabel.textAlignment = .center
+        }
     }
     
 
